@@ -30,15 +30,11 @@ input{
 #submit_btn{
 	background-color: #1bbc9b;
 	color: white;
-	border: none;
-	border-radius: 5px;
 	margin-bottom: 30px;
-	width: 100%; /*이걸 해줘야 한다.*/
-	padding: 10px;
 }
 
 a{
 	display: block;
 	color: #9b9b9b;
-	font-size: 10px;
+	font-size: 12px;
 }
