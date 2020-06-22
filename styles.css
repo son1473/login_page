@@ -33,6 +33,10 @@ input{
 	margin-bottom: 30px;
 }
 
+#submit_btn:hover{
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.50);
+}
+
 a{
 	display: block;
 	color: #9b9b9b;
